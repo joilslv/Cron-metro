@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: azure;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+section {
+    width: 90%;
+    margin: 10px auto;
+    text-align: center;
+    color: black;
+}
+
+body {
+    background-color: rgba(0, 0, 0, 0.19);
+}
+
+main {
+    width: 30%;
+    height: auto;
+    background-color: rgb(15, 15, 15);
+    margin: 100px auto;
+    border-radius: 80px;
+    border-style: dashed;
+    border-color: rgb(53, 53, 67);
+    border-width: 15px;
+
+}
+
+.title {
+    width: 100%;
+    font-size: 35px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+div {
+    width: 90%;
+    margin: 5px auto;
+    text-align: center;
+    font-size: 120px;
+}
+
+
+button {
+    width:25%;
+    height: 30px;
+    margin: 10px auto;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    
+}
